@@ -71,6 +71,7 @@
                     <div class="price">$15.99</div>
                 </div>
             </div>
+            <a href="#" class="btn">checkout now</a>
         </div>
         
 
